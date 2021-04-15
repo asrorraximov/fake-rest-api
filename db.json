@@ -1,0 +1,144 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 2,
+            "name": "Shaxzod",
+            "email": "sh@gmail.com",
+            "type": "Author",
+            "isManager": true
+        },
+        {
+            "id": 3,
+            "name": "Azamat",
+            "email": "az@gmail.com",
+            "type": "Author",
+            "isManager": true
+        },
+        {
+            "id": 4,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 5,
+            "name": "Azamat",
+            "email": "az@gmail.com",
+            "type": "Author",
+            "isManager": true
+        },
+        {
+            "id": 6,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 7,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 8,
+            "name": "Shaxzod",
+            "email": "sh@gmail.com",
+            "type": "Author",
+            "isManager": true
+        },
+        {
+            "id": 9,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 10,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 11,
+            "name": "Shaxzod",
+            "email": "sh@gmail.com",
+            "type": "Author",
+            "isManager": true
+        },
+        {
+            "id": 12,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 13,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 14,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 15,
+            "name": "Azamat",
+            "email": "az@gmail.com",
+            "type": "Author",
+            "isManager": true
+        },
+        {
+            "id": 16,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 17,
+            "name": "Azamat",
+            "email": "az@gmail.com",
+            "type": "Author",
+            "isManager": true
+        },
+        {
+            "id": 18,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 19,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        },
+        {
+            "id": 20,
+            "name": "Asror",
+            "email": "a@gmail.com",
+            "type": "Client",
+            "isManager": false
+        }
+    ]
+}
